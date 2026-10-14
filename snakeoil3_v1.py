@@ -262,21 +262,13 @@ def drive(carstate):
 
         # Try to load racing line profile (only once)
         if not drive.racing_line_loaded:
-            # Look for profile in current directory or standard paths
-            possible_paths = [
-                'v54_racing_line.json',
-                '/mnt/user-data/outputs/v54_racing_line.json',
-                '/root/.claude/uploads/v54_racing_line.json',
-            ]
-
-            for path in possible_paths:
-                if os.path.exists(path):
-                    profile = RacingLineProfile()
-                    if profile.load_from_json(path):
-                        drive.controller.set_racing_line(profile)
-                        drive.racing_line_loaded = True
-                        print(f"[V54] Racing line loaded from {path}")
-                        break
+            # Look for profile in current directory
+            if os.path.exists('v54_racing_line.json'):
+                profile = RacingLineProfile()
+                if profile.load_from_json('v54_racing_line.json'):
+                    drive.controller.set_racing_line(profile)
+                    drive.racing_line_loaded = True
+                    print(f"[V54] Racing line loaded from v54_racing_line.json")
 
             if not drive.racing_line_loaded:
                 print("[V54] WARNING: Racing line profile not found. Running in reactive-only mode.")
