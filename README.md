@@ -15,7 +15,7 @@ This project implements an autonomous racing AI controller for the TORCS (The Op
 - **Programming Language:** Python 3.x
 - **Socket Protocol:** UDP (snakeoil3 protocol on port 3001)
 - **Development Environment:** VS Code + Command Line
-- **AI Guidance:** IBM Bob (Claude AI Assistant)
+- **AI Guidance:** IBM Bob CLI mode and  Claude AI Assistants( when IBM Bob maxxed out)
 - **Version Control:** Git/GitHub
 - **Data Analysis:** Python pandas/CSV telemetry logging
 
