@@ -1,0 +1,2533 @@
+{
+  "total_distance_m": 3607.99980826055,
+  "racing_line": {
+    "0.0": {
+      "track_pos": 0.20242960591836737,
+      "ideal_speed": 348.09372,
+      "avg_speed": 140.76996171428573,
+      "angle_change": 0.0898932,
+      "samples": 49
+    },
+    "10.0": {
+      "track_pos": 0.124882425,
+      "ideal_speed": 333.53136,
+      "avg_speed": 219.654675,
+      "angle_change": 0.12533090000000002,
+      "samples": 32
+    },
+    "20.0": {
+      "track_pos": 0.10348882592592593,
+      "ideal_speed": 323.76671999999996,
+      "avg_speed": 254.15365333333335,
+      "angle_change": 0.17229329999999998,
+      "samples": 27
+    },
+    "30.0": {
+      "track_pos": 0.09881029200000001,
+      "ideal_speed": 336.43368000000004,
+      "avg_speed": 268.948152,
+      "angle_change": 0.1791442,
+      "samples": 25
+    },
+    "40.0": {
+      "track_pos": 0.0877506652173913,
+      "ideal_speed": 349.75404,
+      "avg_speed": 283.1415182608696,
+      "angle_change": 0.1756423,
+      "samples": 23
+    },
+    "50.0": {
+      "track_pos": 0.0915788,
+      "ideal_speed": 363.4776,
+      "avg_speed": 297.023925,
+      "angle_change": 0.1507156,
+      "samples": 24
+    },
+    "60.0": {
+      "track_pos": 0.09136260869565217,
+      "ideal_speed": 377.64000000000004,
+      "avg_speed": 306.4169582608696,
+      "angle_change": 0.11084369999999999,
+      "samples": 23
+    },
+    "70.0": {
+      "track_pos": 0.10352775454545454,
+      "ideal_speed": 389.02680000000004,
+      "avg_speed": 313.7496545454546,
+      "angle_change": 0.06154382,
+      "samples": 22
+    },
+    "80.0": {
+      "track_pos": 0.10403216,
+      "ideal_speed": 400.6188,
+      "avg_speed": 322.21607400000005,
+      "angle_change": 0.03734879,
+      "samples": 20
+    },
+    "90.0": {
+      "track_pos": 0.09940173913043478,
+      "ideal_speed": 404.46,
+      "avg_speed": 331.16780347826085,
+      "angle_change": 0.0650723,
+      "samples": 23
+    },
+    "100.0": {
+      "track_pos": 0.10509635263157895,
+      "ideal_speed": 414.2844,
+      "avg_speed": 339.3489410526316,
+      "angle_change": 0.0733574,
+      "samples": 19
+    },
+    "110.0": {
+      "track_pos": 0.11037318,
+      "ideal_speed": 423.9396,
+      "avg_speed": 346.751478,
+      "angle_change": 0.07037260000000001,
+      "samples": 20
+    },
+    "120.0": {
+      "track_pos": 0.11393932777777777,
+      "ideal_speed": 434.034,
+      "avg_speed": 357.6927,
+      "angle_change": 0.064455,
+      "samples": 18
+    },
+    "130.0": {
+      "track_pos": 0.1141342155,
+      "ideal_speed": 444.402,
+      "avg_speed": 364.15351799999996,
+      "angle_change": 0.0556542,
+      "samples": 20
+    },
+    "140.0": {
+      "track_pos": 0.1192637257894737,
+      "ideal_speed": 454.2696,
+      "avg_speed": 371.6234147368421,
+      "angle_change": 0.0909672,
+      "samples": 19
+    },
+    "150.0": {
+      "track_pos": 0.1097539125,
+      "ideal_speed": 461.83680000000004,
+      "avg_speed": 377.8239375,
+      "angle_change": 0.0961166,
+      "samples": 16
+    },
+    "160.0": {
+      "track_pos": 0.099807675,
+      "ideal_speed": 472.0536,
+      "avg_speed": 386.024202,
+      "angle_change": 0.09253689999999999,
+      "samples": 20
+    },
+    "170.0": {
+      "track_pos": 0.0961685611111111,
+      "ideal_speed": 481.4748,
+      "avg_speed": 390.87798,
+      "angle_change": 0.07732349999999999,
+      "samples": 18
+    },
+    "180.0": {
+      "track_pos": 0.09380343125,
+      "ideal_speed": 485.9388,
+      "avg_speed": 396.08109,
+      "angle_change": 0.06523709999999999,
+      "samples": 16
+    },
+    "190.0": {
+      "track_pos": 0.09842602352941177,
+      "ideal_speed": 486.52200000000005,
+      "avg_speed": 398.18013882352943,
+      "angle_change": 0.05506521,
+      "samples": 17
+    },
+    "200.0": {
+      "track_pos": 0.09586920588235294,
+      "ideal_speed": 481.9356,
+      "avg_speed": 398.75556705882354,
+      "angle_change": 0.048170939999999995,
+      "samples": 17
+    },
+    "210.0": {
+      "track_pos": 0.07997277058823529,
+      "ideal_speed": 476.2476,
+      "avg_speed": 412.88868,
+      "angle_change": 0.04071637,
+      "samples": 17
+    },
+    "220.0": {
+      "track_pos": 0.08636020555555556,
+      "ideal_speed": 478.6236,
+      "avg_speed": 408.47812,
+      "angle_change": 0.03531859,
+      "samples": 18
+    },
+    "230.0": {
+      "track_pos": 0.09962624666666667,
+      "ideal_speed": 486.8892000000001,
+      "avg_speed": 398.867952,
+      "angle_change": 0.03390258,
+      "samples": 15
+    },
+    "240.0": {
+      "track_pos": 0.08521965555555555,
+      "ideal_speed": 497.83680000000004,
+      "avg_speed": 411.90986,
+      "angle_change": 0.0324362,
+      "samples": 18
+    },
+    "250.0": {
+      "track_pos": 0.08403951866666667,
+      "ideal_speed": 506.00160000000005,
+      "avg_speed": 410.76588,
+      "angle_change": 0.0325959,
+      "samples": 15
+    },
+    "260.0": {
+      "track_pos": 0.08629908166666667,
+      "ideal_speed": 509.73120000000006,
+      "avg_speed": 409.70598,
+      "angle_change": 0.0330432,
+      "samples": 18
+    },
+    "270.0": {
+      "track_pos": 0.080498305625,
+      "ideal_speed": 514.4544,
+      "avg_speed": 418.75884,
+      "angle_change": 0.0432106,
+      "samples": 16
+    },
+    "280.0": {
+      "track_pos": 0.07608454294117648,
+      "ideal_speed": 521.5500000000001,
+      "avg_speed": 417.2517317647059,
+      "angle_change": 0.0498069,
+      "samples": 17
+    },
+    "290.0": {
+      "track_pos": 0.08485869666666666,
+      "ideal_speed": 528.4728,
+      "avg_speed": 417.849504,
+      "angle_change": 0.045791899999999996,
+      "samples": 15
+    },
+    "300.0": {
+      "track_pos": 0.074682410625,
+      "ideal_speed": 535.4028000000001,
+      "avg_speed": 421.1865225,
+      "angle_change": 0.05108402,
+      "samples": 16
+    },
+    "310.0": {
+      "track_pos": 0.06180054588235294,
+      "ideal_speed": 544.5864,
+      "avg_speed": 437.37204705882357,
+      "angle_change": 0.08447865,
+      "samples": 17
+    },
+    "320.0": {
+      "track_pos": 0.046512288666666665,
+      "ideal_speed": 551.0952,
+      "avg_speed": 456.1272,
+      "angle_change": 0.08642090000000001,
+      "samples": 15
+    },
+    "330.0": {
+      "track_pos": 0.03777275375,
+      "ideal_speed": 555.9804,
+      "avg_speed": 451.564425,
+      "angle_change": 0.08105140200000001,
+      "samples": 16
+    },
+    "340.0": {
+      "track_pos": 0.021308682857142856,
+      "ideal_speed": 559.4652000000001,
+      "avg_speed": 466.98120000000006,
+      "angle_change": 0.065647855,
+      "samples": 14
+    },
+    "350.0": {
+      "track_pos": 0.010444875714285715,
+      "ideal_speed": 561.9096000000001,
+      "avg_speed": 471.0119142857143,
+      "angle_change": 0.056256798,
+      "samples": 14
+    },
+    "360.0": {
+      "track_pos": 0.0017733307142857163,
+      "ideal_speed": 563.6016000000001,
+      "avg_speed": 477.3093428571429,
+      "angle_change": 0.0700442,
+      "samples": 14
+    },
+    "370.0": {
+      "track_pos": -0.0029490371428571396,
+      "ideal_speed": 564.822,
+      "avg_speed": 483.5075142857143,
+      "angle_change": 0.08091860000000001,
+      "samples": 14
+    },
+    "380.0": {
+      "track_pos": -0.004374632571428571,
+      "ideal_speed": 565.7364,
+      "avg_speed": 489.92477142857143,
+      "angle_change": 0.0756513,
+      "samples": 14
+    },
+    "390.0": {
+      "track_pos": -0.004321042357142855,
+      "ideal_speed": 566.3772,
+      "avg_speed": 496.1586857142857,
+      "angle_change": 0.0667556,
+      "samples": 14
+    },
+    "400.0": {
+      "track_pos": -0.0037703485714285713,
+      "ideal_speed": 566.8164,
+      "avg_speed": 502.3879714285714,
+      "angle_change": 0.0576911,
+      "samples": 14
+    },
+    "410.0": {
+      "track_pos": -0.003090006499999999,
+      "ideal_speed": 567.1044,
+      "avg_speed": 508.5516857142857,
+      "angle_change": 0.049574400000000005,
+      "samples": 14
+    },
+    "420.0": {
+      "track_pos": -0.0021419035000000016,
+      "ideal_speed": 567.3528000000001,
+      "avg_speed": 520.6065,
+      "angle_change": 0.041869100000000006,
+      "samples": 12
+    },
+    "430.0": {
+      "track_pos": -0.0019895385,
+      "ideal_speed": 567.7092,
+      "avg_speed": 519.2647714285714,
+      "angle_change": 0.036761,
+      "samples": 14
+    },
+    "440.0": {
+      "track_pos": -0.0013500394333333338,
+      "ideal_speed": 567.936,
+      "avg_speed": 529.8834,
+      "angle_change": 0.0307784,
+      "samples": 12
+    },
+    "450.0": {
+      "track_pos": -0.0012296048864285716,
+      "ideal_speed": 568.0835999999999,
+      "avg_speed": 529.5900857142857,
+      "angle_change": 0.0270256,
+      "samples": 14
+    },
+    "460.0": {
+      "track_pos": -0.0012102653333333328,
+      "ideal_speed": 568.2384,
+      "avg_speed": 537.744,
+      "angle_change": 0.01739317,
+      "samples": 12
+    },
+    "470.0": {
+      "track_pos": -0.004708058543076923,
+      "ideal_speed": 568.368,
+      "avg_speed": 534.8965846153847,
+      "angle_change": 0.009852057000000001,
+      "samples": 13
+    },
+    "480.0": {
+      "track_pos": -0.0012962519846153845,
+      "ideal_speed": 568.4472,
+      "avg_speed": 535.6448307692308,
+      "angle_change": 0.008587315,
+      "samples": 13
+    },
+    "490.0": {
+      "track_pos": -0.007671653461538462,
+      "ideal_speed": 568.494,
+      "avg_speed": 533.9952000000001,
+      "angle_change": 0.007331506,
+      "samples": 13
+    },
+    "500.0": {
+      "track_pos": -0.005663337615384615,
+      "ideal_speed": 568.5228000000001,
+      "avg_speed": 537.6198461538462,
+      "angle_change": 0.006619352,
+      "samples": 13
+    },
+    "510.0": {
+      "track_pos": -0.007263743083333334,
+      "ideal_speed": 568.5336,
+      "avg_speed": 536.2623,
+      "angle_change": 0.005774452,
+      "samples": 12
+    },
+    "520.0": {
+      "track_pos": -0.009717775214285714,
+      "ideal_speed": 568.5444,
+      "avg_speed": 534.2839714285715,
+      "angle_change": 0.004778626,
+      "samples": 14
+    },
+    "530.0": {
+      "track_pos": -0.009535640833333333,
+      "ideal_speed": 568.5552,
+      "avg_speed": 536.9967,
+      "angle_change": 0.003967147,
+      "samples": 12
+    },
+    "540.0": {
+      "track_pos": -0.013551303692307691,
+      "ideal_speed": 568.5552,
+      "avg_speed": 535.1865230769231,
+      "angle_change": 0.003242436,
+      "samples": 13
+    },
+    "550.0": {
+      "track_pos": -0.010254443,
+      "ideal_speed": 567.6912000000001,
+      "avg_speed": 536.0975999999999,
+      "angle_change": 0.00294859,
+      "samples": 13
+    },
+    "560.0": {
+      "track_pos": -0.011829633166666667,
+      "ideal_speed": 567.918,
+      "avg_speed": 536.1378000000001,
+      "angle_change": 0.00333804,
+      "samples": 12
+    },
+    "570.0": {
+      "track_pos": -0.014568808642857143,
+      "ideal_speed": 568.152,
+      "avg_speed": 529.898142857143,
+      "angle_change": 0.00407416,
+      "samples": 14
+    },
+    "580.0": {
+      "track_pos": -0.012881991983333334,
+      "ideal_speed": 568.332,
+      "avg_speed": 533.3142,
+      "angle_change": 0.00501925,
+      "samples": 12
+    },
+    "590.0": {
+      "track_pos": -0.014378053754,
+      "ideal_speed": 568.4796,
+      "avg_speed": 529.86216,
+      "angle_change": 0.00470865,
+      "samples": 15
+    },
+    "600.0": {
+      "track_pos": -0.013485232694166667,
+      "ideal_speed": 568.548,
+      "avg_speed": 531.1932,
+      "angle_change": 0.00412274,
+      "samples": 12
+    },
+    "610.0": {
+      "track_pos": -0.012607454430769232,
+      "ideal_speed": 568.5840000000001,
+      "avg_speed": 526.0167692307692,
+      "angle_change": 0.00415832,
+      "samples": 13
+    },
+    "620.0": {
+      "track_pos": -0.013811858083333335,
+      "ideal_speed": 566.91,
+      "avg_speed": 529.1364,
+      "angle_change": 0.003179856,
+      "samples": 12
+    },
+    "630.0": {
+      "track_pos": -0.016194224714285714,
+      "ideal_speed": 567.2412,
+      "avg_speed": 521.2707428571429,
+      "angle_change": 0.0035415940000000003,
+      "samples": 14
+    },
+    "640.0": {
+      "track_pos": -0.013118304538461538,
+      "ideal_speed": 567.3960000000001,
+      "avg_speed": 515.4953538461539,
+      "angle_change": 0.0033393579999999997,
+      "samples": 13
+    },
+    "650.0": {
+      "track_pos": -0.012290619071428572,
+      "ideal_speed": 565.6211999999999,
+      "avg_speed": 501.5838857142857,
+      "angle_change": 0.00255203,
+      "samples": 14
+    },
+    "660.0": {
+      "track_pos": -0.013457419615384615,
+      "ideal_speed": 560.6279999999999,
+      "avg_speed": 500.68163076923076,
+      "angle_change": 0.0035672229999999996,
+      "samples": 13
+    },
+    "670.0": {
+      "track_pos": -0.013709486692307692,
+      "ideal_speed": 554.3532,
+      "avg_speed": 493.1903076923077,
+      "angle_change": 0.0175006,
+      "samples": 13
+    },
+    "680.0": {
+      "track_pos": -0.014863472866666668,
+      "ideal_speed": 547.47,
+      "avg_speed": 480.211608,
+      "angle_change": 0.040870250000000004,
+      "samples": 15
+    },
+    "690.0": {
+      "track_pos": -0.023857007125,
+      "ideal_speed": 547.704,
+      "avg_speed": 475.23519,
+      "angle_change": 0.044052350000000004,
+      "samples": 16
+    },
+    "700.0": {
+      "track_pos": -0.030148335785714287,
+      "ideal_speed": 547.9704,
+      "avg_speed": 460.36393714285714,
+      "angle_change": 0.04194497,
+      "samples": 14
+    },
+    "710.0": {
+      "track_pos": -0.036556808571428574,
+      "ideal_speed": 548.3952,
+      "avg_speed": 456.6662742857143,
+      "angle_change": 0.0447879,
+      "samples": 14
+    },
+    "720.0": {
+      "track_pos": -0.039753434117647056,
+      "ideal_speed": 551.0448,
+      "avg_speed": 452.7963952941177,
+      "angle_change": 0.0461344,
+      "samples": 17
+    },
+    "730.0": {
+      "track_pos": -0.04700772071428572,
+      "ideal_speed": 554.85,
+      "avg_speed": 452.2736314285715,
+      "angle_change": 0.042550700000000004,
+      "samples": 14
+    },
+    "740.0": {
+      "track_pos": -0.04739161133333333,
+      "ideal_speed": 557.4312000000001,
+      "avg_speed": 453.529464,
+      "angle_change": 0.041374100000000004,
+      "samples": 15
+    },
+    "750.0": {
+      "track_pos": -0.0473849490625,
+      "ideal_speed": 558.7308,
+      "avg_speed": 454.4776575,
+      "angle_change": 0.0375789,
+      "samples": 16
+    },
+    "760.0": {
+      "track_pos": -0.047004904,
+      "ideal_speed": 559.6992,
+      "avg_speed": 459.60210000000006,
+      "angle_change": 0.0319512,
+      "samples": 14
+    },
+    "770.0": {
+      "track_pos": -0.056015608466666665,
+      "ideal_speed": 560.5164000000001,
+      "avg_speed": 453.20112,
+      "angle_change": 0.0274907,
+      "samples": 15
+    },
+    "780.0": {
+      "track_pos": -0.054234864774999995,
+      "ideal_speed": 561.1211999999999,
+      "avg_speed": 455.3343,
+      "angle_change": 0.0183514,
+      "samples": 16
+    },
+    "790.0": {
+      "track_pos": -0.05044520414285714,
+      "ideal_speed": 561.6755999999999,
+      "avg_speed": 461.13377142857144,
+      "angle_change": 0.01264642,
+      "samples": 14
+    },
+    "800.0": {
+      "track_pos": -0.052370203071428575,
+      "ideal_speed": 562.1075999999999,
+      "avg_speed": 459.77554285714285,
+      "angle_change": 0.015693696,
+      "samples": 14
+    },
+    "810.0": {
+      "track_pos": -0.0430723945625,
+      "ideal_speed": 562.6476,
+      "avg_speed": 465.95115,
+      "angle_change": 0.041126828,
+      "samples": 16
+    },
+    "820.0": {
+      "track_pos": -0.048273119249999996,
+      "ideal_speed": 563.0400000000001,
+      "avg_speed": 457.19077500000003,
+      "angle_change": 0.050460024,
+      "samples": 16
+    },
+    "830.0": {
+      "track_pos": -0.03798769907142857,
+      "ideal_speed": 563.3604,
+      "avg_speed": 461.1602571428572,
+      "angle_change": 0.049839655,
+      "samples": 14
+    },
+    "840.0": {
+      "track_pos": -0.016589398999999998,
+      "ideal_speed": 563.6664000000001,
+      "avg_speed": 459.14544,
+      "angle_change": 0.045117816,
+      "samples": 15
+    },
+    "850.0": {
+      "track_pos": -0.0201604708,
+      "ideal_speed": 563.9544,
+      "avg_speed": 459.82128,
+      "angle_change": 0.040753551,
+      "samples": 15
+    },
+    "860.0": {
+      "track_pos": -0.013122393125,
+      "ideal_speed": 564.1848,
+      "avg_speed": 453.6099,
+      "angle_change": 0.035745485,
+      "samples": 16
+    },
+    "870.0": {
+      "track_pos": -0.013796553071428573,
+      "ideal_speed": 564.2964,
+      "avg_speed": 456.72179142857146,
+      "angle_change": 0.0312476,
+      "samples": 14
+    },
+    "880.0": {
+      "track_pos": 0.0015047315333333341,
+      "ideal_speed": 563.31,
+      "avg_speed": 445.591296,
+      "angle_change": 0.02697816,
+      "samples": 15
+    },
+    "890.0": {
+      "track_pos": 0.0006662550588235302,
+      "ideal_speed": 557.9352,
+      "avg_speed": 435.62052,
+      "angle_change": 0.023967824000000002,
+      "samples": 17
+    },
+    "900.0": {
+      "track_pos": 0.004496066764285714,
+      "ideal_speed": 552.4524,
+      "avg_speed": 432.27473142857144,
+      "angle_change": 0.020190833000000002,
+      "samples": 14
+    },
+    "910.0": {
+      "track_pos": 0.007693077111764706,
+      "ideal_speed": 551.4804,
+      "avg_speed": 425.4045035294118,
+      "angle_change": 0.0199801,
+      "samples": 17
+    },
+    "920.0": {
+      "track_pos": 0.006595797647058824,
+      "ideal_speed": 551.1132,
+      "avg_speed": 404.80153411764707,
+      "angle_change": 0.1436999,
+      "samples": 17
+    },
+    "930.0": {
+      "track_pos": -0.02139406875,
+      "ideal_speed": 550.4328,
+      "avg_speed": 393.2458425,
+      "angle_change": 0.17461849999999998,
+      "samples": 16
+    },
+    "940.0": {
+      "track_pos": -0.04238873888888889,
+      "ideal_speed": 549.81,
+      "avg_speed": 400.50246,
+      "angle_change": 0.1742108,
+      "samples": 18
+    },
+    "950.0": {
+      "track_pos": -0.07301400526315789,
+      "ideal_speed": 549.2772,
+      "avg_speed": 390.90880421052634,
+      "angle_change": 0.16897907,
+      "samples": 19
+    },
+    "960.0": {
+      "track_pos": -0.11774892941176471,
+      "ideal_speed": 549.0612,
+      "avg_speed": 376.0225835294118,
+      "angle_change": 0.15318445,
+      "samples": 17
+    },
+    "970.0": {
+      "track_pos": -0.13032585555555556,
+      "ideal_speed": 548.7804,
+      "avg_speed": 382.24118,
+      "angle_change": 0.13827511,
+      "samples": 18
+    },
+    "980.0": {
+      "track_pos": -0.14397763684210527,
+      "ideal_speed": 549.0684,
+      "avg_speed": 392.4471789473684,
+      "angle_change": 0.12767441999999998,
+      "samples": 19
+    },
+    "990.0": {
+      "track_pos": -0.1840996,
+      "ideal_speed": 553.9356,
+      "avg_speed": 380.2792447058823,
+      "angle_change": 0.11265153,
+      "samples": 17
+    },
+    "1000.0": {
+      "track_pos": -0.18550055000000001,
+      "ideal_speed": 557.4924000000001,
+      "avg_speed": 386.12832000000003,
+      "angle_change": 0.09937743,
+      "samples": 18
+    },
+    "1010.0": {
+      "track_pos": -0.20276227944444447,
+      "ideal_speed": 560.16,
+      "avg_speed": 388.41304,
+      "angle_change": 0.08572947,
+      "samples": 18
+    },
+    "1020.0": {
+      "track_pos": -0.212231115,
+      "ideal_speed": 562.1616,
+      "avg_speed": 385.93838,
+      "angle_change": 0.07414813999999999,
+      "samples": 18
+    },
+    "1030.0": {
+      "track_pos": -0.220619695625,
+      "ideal_speed": 563.6556,
+      "avg_speed": 391.44168,
+      "angle_change": 0.06338347,
+      "samples": 16
+    },
+    "1040.0": {
+      "track_pos": -0.24757883347058823,
+      "ideal_speed": 564.8112,
+      "avg_speed": 383.20416,
+      "angle_change": 0.05576515,
+      "samples": 17
+    },
+    "1050.0": {
+      "track_pos": -0.22413309842105264,
+      "ideal_speed": 565.668,
+      "avg_speed": 401.83798736842107,
+      "angle_change": 0.04830001,
+      "samples": 19
+    },
+    "1060.0": {
+      "track_pos": -0.245619725625,
+      "ideal_speed": 566.3052,
+      "avg_speed": 409.14351,
+      "angle_change": 0.0774551,
+      "samples": 16
+    },
+    "1070.0": {
+      "track_pos": -0.25081645875,
+      "ideal_speed": 566.7876,
+      "avg_speed": 418.3226325,
+      "angle_change": 0.28765188,
+      "samples": 16
+    },
+    "1080.0": {
+      "track_pos": -0.19655156499999998,
+      "ideal_speed": 567.1800000000001,
+      "avg_speed": 440.63196750000003,
+      "angle_change": 0.46174542,
+      "samples": 16
+    },
+    "1090.0": {
+      "track_pos": -0.206875231875,
+      "ideal_speed": 567.5112,
+      "avg_speed": 418.02876,
+      "angle_change": 0.51025314,
+      "samples": 16
+    },
+    "1100.0": {
+      "track_pos": -0.17388859529411763,
+      "ideal_speed": 567.7884,
+      "avg_speed": 395.2567694117647,
+      "angle_change": 0.50247527,
+      "samples": 17
+    },
+    "1110.0": {
+      "track_pos": -0.11496452555555556,
+      "ideal_speed": 567.9648,
+      "avg_speed": 396.60374,
+      "angle_change": 0.34968397,
+      "samples": 18
+    },
+    "1120.0": {
+      "track_pos": -0.08370662,
+      "ideal_speed": 568.0871999999999,
+      "avg_speed": 394.3700894117647,
+      "angle_change": 0.194845,
+      "samples": 17
+    },
+    "1130.0": {
+      "track_pos": -0.04845733,
+      "ideal_speed": 568.2348,
+      "avg_speed": 424.8192494117647,
+      "angle_change": 0.1041646,
+      "samples": 17
+    },
+    "1140.0": {
+      "track_pos": -0.045270524375,
+      "ideal_speed": 568.3536,
+      "avg_speed": 429.30711,
+      "angle_change": 0.0434228,
+      "samples": 16
+    },
+    "1150.0": {
+      "track_pos": -0.0354017414,
+      "ideal_speed": 568.4184,
+      "avg_speed": 450.37068,
+      "angle_change": 0.023209578,
+      "samples": 15
+    },
+    "1160.0": {
+      "track_pos": -0.030175942,
+      "ideal_speed": 568.458,
+      "avg_speed": 468.2022942857143,
+      "angle_change": 0.02820537,
+      "samples": 14
+    },
+    "1170.0": {
+      "track_pos": -0.03395865013333333,
+      "ideal_speed": 568.4724,
+      "avg_speed": 464.170248,
+      "angle_change": 0.0347547,
+      "samples": 15
+    },
+    "1180.0": {
+      "track_pos": -0.028165256857142856,
+      "ideal_speed": 568.5696,
+      "avg_speed": 481.34831142857144,
+      "angle_change": 0.0372215,
+      "samples": 14
+    },
+    "1190.0": {
+      "track_pos": -0.02515274842857143,
+      "ideal_speed": 568.6524000000001,
+      "avg_speed": 487.9174114285714,
+      "angle_change": 0.0353948,
+      "samples": 14
+    },
+    "1200.0": {
+      "track_pos": -0.018993313153846156,
+      "ideal_speed": 568.6704,
+      "avg_speed": 503.2337538461539,
+      "angle_change": 0.0314578,
+      "samples": 13
+    },
+    "1210.0": {
+      "track_pos": -0.019380862399999997,
+      "ideal_speed": 565.8048,
+      "avg_speed": 502.44984000000005,
+      "angle_change": 0.0268903,
+      "samples": 15
+    },
+    "1220.0": {
+      "track_pos": -0.01368079016153846,
+      "ideal_speed": 563.5980000000001,
+      "avg_speed": 510.65972307692306,
+      "angle_change": 0.0222024,
+      "samples": 13
+    },
+    "1230.0": {
+      "track_pos": -0.011795971973076923,
+      "ideal_speed": 564.192,
+      "avg_speed": 510.5132307692308,
+      "angle_change": 0.01913523,
+      "samples": 13
+    },
+    "1240.0": {
+      "track_pos": -0.010833343666666667,
+      "ideal_speed": 564.75,
+      "avg_speed": 506.21448,
+      "angle_change": 0.01690798,
+      "samples": 15
+    },
+    "1250.0": {
+      "track_pos": -0.008293946846153847,
+      "ideal_speed": 565.236,
+      "avg_speed": 511.1202461538462,
+      "angle_change": 0.01420853,
+      "samples": 13
+    },
+    "1260.0": {
+      "track_pos": -0.007002214230769231,
+      "ideal_speed": 565.6788,
+      "avg_speed": 511.6580307692308,
+      "angle_change": 0.01206318,
+      "samples": 13
+    },
+    "1270.0": {
+      "track_pos": -0.004759858666666667,
+      "ideal_speed": 566.0892000000001,
+      "avg_speed": 517.1679,
+      "angle_change": 0.01017481,
+      "samples": 12
+    },
+    "1280.0": {
+      "track_pos": -0.004817324533333334,
+      "ideal_speed": 566.4636,
+      "avg_speed": 512.4283200000001,
+      "angle_change": 0.00872496,
+      "samples": 15
+    },
+    "1290.0": {
+      "track_pos": -0.004136483076923077,
+      "ideal_speed": 566.7876,
+      "avg_speed": 511.1230153846154,
+      "angle_change": 0.00736925,
+      "samples": 13
+    },
+    "1300.0": {
+      "track_pos": -0.0026838890833333334,
+      "ideal_speed": 567.0936,
+      "avg_speed": 513.8655,
+      "angle_change": 0.00618685,
+      "samples": 12
+    },
+    "1310.0": {
+      "track_pos": -0.002678456666666667,
+      "ideal_speed": 567.3456,
+      "avg_speed": 508.95216,
+      "angle_change": 0.005336260000000001,
+      "samples": 15
+    },
+    "1320.0": {
+      "track_pos": -0.0013212792307692306,
+      "ideal_speed": 567.5939999999999,
+      "avg_speed": 515.4516000000001,
+      "angle_change": 0.00469262,
+      "samples": 13
+    },
+    "1330.0": {
+      "track_pos": -0.0018330893333333334,
+      "ideal_speed": 567.7560000000001,
+      "avg_speed": 505.9524,
+      "angle_change": 0.0039272099999999996,
+      "samples": 15
+    },
+    "1340.0": {
+      "track_pos": -0.0013685350000000002,
+      "ideal_speed": 567.9108,
+      "avg_speed": 504.04403076923074,
+      "angle_change": 0.003043749,
+      "samples": 13
+    },
+    "1350.0": {
+      "track_pos": -0.0010798091538461536,
+      "ideal_speed": 568.0512,
+      "avg_speed": 502.6045846153847,
+      "angle_change": 0.0027204209999999998,
+      "samples": 13
+    },
+    "1360.0": {
+      "track_pos": -0.001350064,
+      "ideal_speed": 568.116,
+      "avg_speed": 497.76336,
+      "angle_change": 0.002290346,
+      "samples": 15
+    },
+    "1370.0": {
+      "track_pos": -0.0011203530230769231,
+      "ideal_speed": 568.1808,
+      "avg_speed": 493.4799692307692,
+      "angle_change": 0.002095767,
+      "samples": 13
+    },
+    "1380.0": {
+      "track_pos": -0.0010125140664285714,
+      "ideal_speed": 568.2708,
+      "avg_speed": 486.23040000000003,
+      "angle_change": 0.001920284,
+      "samples": 14
+    },
+    "1390.0": {
+      "track_pos": -0.0010738791999999999,
+      "ideal_speed": 568.3104000000001,
+      "avg_speed": 474.7488,
+      "angle_change": 0.001483624,
+      "samples": 15
+    },
+    "1400.0": {
+      "track_pos": -0.0009784356428571429,
+      "ideal_speed": 568.3140000000001,
+      "avg_speed": 474.2542285714286,
+      "angle_change": 0.009588041,
+      "samples": 14
+    },
+    "1410.0": {
+      "track_pos": 0.0017239242466666666,
+      "ideal_speed": 568.3140000000001,
+      "avg_speed": 460.881168,
+      "angle_change": 0.049054519000000005,
+      "samples": 15
+    },
+    "1420.0": {
+      "track_pos": 0.009447349733333332,
+      "ideal_speed": 568.3104000000001,
+      "avg_speed": 453.90636,
+      "angle_change": 0.051972437,
+      "samples": 15
+    },
+    "1430.0": {
+      "track_pos": 0.017857599800000002,
+      "ideal_speed": 568.3607999999999,
+      "avg_speed": 450.022728,
+      "angle_change": 0.049754939,
+      "samples": 15
+    },
+    "1440.0": {
+      "track_pos": 0.023760666875,
+      "ideal_speed": 568.3968,
+      "avg_speed": 457.233615,
+      "angle_change": 0.041125111,
+      "samples": 16
+    },
+    "1450.0": {
+      "track_pos": 0.025256376066666666,
+      "ideal_speed": 568.4004000000001,
+      "avg_speed": 451.570272,
+      "angle_change": 0.030406436999999998,
+      "samples": 15
+    },
+    "1460.0": {
+      "track_pos": 0.03720117353333333,
+      "ideal_speed": 568.4148,
+      "avg_speed": 449.85744,
+      "angle_change": 0.019746229,
+      "samples": 15
+    },
+    "1470.0": {
+      "track_pos": 0.033364851200000004,
+      "ideal_speed": 568.4292,
+      "avg_speed": 447.37812,
+      "angle_change": 0.007356947,
+      "samples": 15
+    },
+    "1480.0": {
+      "track_pos": 0.0427986254375,
+      "ideal_speed": 568.422,
+      "avg_speed": 441.885645,
+      "angle_change": 0.008467488,
+      "samples": 16
+    },
+    "1490.0": {
+      "track_pos": 0.036574548375,
+      "ideal_speed": 568.4292,
+      "avg_speed": 432.5284575,
+      "angle_change": 0.007939037999999999,
+      "samples": 16
+    },
+    "1500.0": {
+      "track_pos": 0.03995711986666666,
+      "ideal_speed": 568.4364,
+      "avg_speed": 436.001928,
+      "angle_change": 0.051377397000000005,
+      "samples": 15
+    },
+    "1510.0": {
+      "track_pos": 0.029354537375,
+      "ideal_speed": 568.4292,
+      "avg_speed": 424.0719675,
+      "angle_change": 0.093448769,
+      "samples": 16
+    },
+    "1520.0": {
+      "track_pos": 0.006634137176470588,
+      "ideal_speed": 568.4292,
+      "avg_speed": 412.1545341176471,
+      "angle_change": 0.099976746,
+      "samples": 17
+    },
+    "1530.0": {
+      "track_pos": -0.009292263462499999,
+      "ideal_speed": 568.4292,
+      "avg_speed": 420.3702675,
+      "angle_change": 0.097263723,
+      "samples": 16
+    },
+    "1540.0": {
+      "track_pos": -0.03485265088764705,
+      "ideal_speed": 568.4184,
+      "avg_speed": 411.90727764705883,
+      "angle_change": 0.08800522300000001,
+      "samples": 17
+    },
+    "1550.0": {
+      "track_pos": -0.053181138988235295,
+      "ideal_speed": 568.4112,
+      "avg_speed": 413.0537505882353,
+      "angle_change": 0.080005623,
+      "samples": 17
+    },
+    "1560.0": {
+      "track_pos": -0.059382000237499996,
+      "ideal_speed": 568.4112,
+      "avg_speed": 422.361675,
+      "angle_change": 0.070544623,
+      "samples": 16
+    },
+    "1570.0": {
+      "track_pos": -0.0897777439375,
+      "ideal_speed": 568.08,
+      "avg_speed": 408.18676500000004,
+      "angle_change": 0.064131223,
+      "samples": 16
+    },
+    "1580.0": {
+      "track_pos": -0.09216687723529411,
+      "ideal_speed": 568.0548,
+      "avg_speed": 408.07808470588236,
+      "angle_change": 0.056079223000000004,
+      "samples": 17
+    },
+    "1590.0": {
+      "track_pos": -0.09076051364375,
+      "ideal_speed": 568.0296000000001,
+      "avg_speed": 414.5355,
+      "angle_change": 0.048386023,
+      "samples": 16
+    },
+    "1600.0": {
+      "track_pos": -0.10939916804705882,
+      "ideal_speed": 568.0116,
+      "avg_speed": 402.5014517647059,
+      "angle_change": 0.042041923,
+      "samples": 17
+    },
+    "1610.0": {
+      "track_pos": -0.1164173904117647,
+      "ideal_speed": 567.9756,
+      "avg_speed": 399.6839011764706,
+      "angle_change": 0.036252167,
+      "samples": 17
+    },
+    "1620.0": {
+      "track_pos": -0.09629539433333333,
+      "ideal_speed": 567.9972,
+      "avg_speed": 411.51724,
+      "angle_change": 0.0315952646,
+      "samples": 18
+    },
+    "1630.0": {
+      "track_pos": -0.12685833535294117,
+      "ideal_speed": 568.0296000000001,
+      "avg_speed": 390.85731529411765,
+      "angle_change": 0.0278069279,
+      "samples": 17
+    },
+    "1640.0": {
+      "track_pos": -0.12251079805555556,
+      "ideal_speed": 568.0584,
+      "avg_speed": 385.47982,
+      "angle_change": 0.024422312,
+      "samples": 18
+    },
+    "1650.0": {
+      "track_pos": -0.1144617564117647,
+      "ideal_speed": 568.08,
+      "avg_speed": 396.0098682352941,
+      "angle_change": 0.0211679657,
+      "samples": 17
+    },
+    "1660.0": {
+      "track_pos": -0.12825931916666666,
+      "ideal_speed": 568.0908000000001,
+      "avg_speed": 375.47074,
+      "angle_change": 0.018761871200000002,
+      "samples": 18
+    },
+    "1670.0": {
+      "track_pos": -0.1229210307368421,
+      "ideal_speed": 568.1124,
+      "avg_speed": 367.07720210526315,
+      "angle_change": 0.017283118,
+      "samples": 19
+    },
+    "1680.0": {
+      "track_pos": -0.1129205533888889,
+      "ideal_speed": 568.1124,
+      "avg_speed": 377.18358,
+      "angle_change": 0.019474774,
+      "samples": 18
+    },
+    "1690.0": {
+      "track_pos": -0.13017319,
+      "ideal_speed": 568.1124,
+      "avg_speed": 354.11382947368423,
+      "angle_change": 0.092331034,
+      "samples": 19
+    },
+    "1700.0": {
+      "track_pos": -0.12272222975,
+      "ideal_speed": 568.1268,
+      "avg_speed": 355.561614,
+      "angle_change": 0.11166718499999999,
+      "samples": 20
+    },
+    "1710.0": {
+      "track_pos": -0.16103113405,
+      "ideal_speed": 568.1232000000001,
+      "avg_speed": 340.14636,
+      "angle_change": 0.1096439426,
+      "samples": 20
+    },
+    "1720.0": {
+      "track_pos": -0.16226690855,
+      "ideal_speed": 568.1232000000001,
+      "avg_speed": 349.56531000000007,
+      "angle_change": 0.1020459426,
+      "samples": 20
+    },
+    "1730.0": {
+      "track_pos": -0.17930536605,
+      "ideal_speed": 568.1304,
+      "avg_speed": 348.321096,
+      "angle_change": 0.0971908426,
+      "samples": 20
+    },
+    "1740.0": {
+      "track_pos": -0.20485083063157894,
+      "ideal_speed": 568.116,
+      "avg_speed": 340.3392631578947,
+      "angle_change": 0.0936498426,
+      "samples": 19
+    },
+    "1750.0": {
+      "track_pos": -0.20271325945,
+      "ideal_speed": 568.1052,
+      "avg_speed": 341.210898,
+      "angle_change": 0.13370169999999998,
+      "samples": 20
+    },
+    "1760.0": {
+      "track_pos": -0.212917064255,
+      "ideal_speed": 568.0980000000001,
+      "avg_speed": 340.747344,
+      "angle_change": 0.166445,
+      "samples": 20
+    },
+    "1770.0": {
+      "track_pos": -0.2186147272761905,
+      "ideal_speed": 568.08,
+      "avg_speed": 329.36537142857145,
+      "angle_change": 0.16943019999999998,
+      "samples": 21
+    },
+    "1780.0": {
+      "track_pos": -0.22146786540952382,
+      "ideal_speed": 568.0764,
+      "avg_speed": 321.2082857142857,
+      "angle_change": 0.1489066,
+      "samples": 21
+    },
+    "1790.0": {
+      "track_pos": -0.22586282536956523,
+      "ideal_speed": 568.0692,
+      "avg_speed": 313.0053808695652,
+      "angle_change": 0.0856538194,
+      "samples": 23
+    },
+    "1800.0": {
+      "track_pos": -0.24549912586857142,
+      "ideal_speed": 568.0548,
+      "avg_speed": 306.87786857142856,
+      "angle_change": 0.10532042999999999,
+      "samples": 21
+    },
+    "1810.0": {
+      "track_pos": -0.2622526953521739,
+      "ideal_speed": 568.0512,
+      "avg_speed": 301.7806904347826,
+      "angle_change": 0.12792603,
+      "samples": 23
+    },
+    "1820.0": {
+      "track_pos": -0.2869363466478261,
+      "ideal_speed": 568.0368000000001,
+      "avg_speed": 297.7107339130435,
+      "angle_change": 0.1703784194,
+      "samples": 23
+    },
+    "1830.0": {
+      "track_pos": -0.32925450897083336,
+      "ideal_speed": 568.026,
+      "avg_speed": 285.15000000000003,
+      "angle_change": 0.1847874194,
+      "samples": 24
+    },
+    "1840.0": {
+      "track_pos": -0.33243695005600005,
+      "ideal_speed": 568.0187999999999,
+      "avg_speed": 286.3200096,
+      "angle_change": 0.1911278,
+      "samples": 25
+    },
+    "1850.0": {
+      "track_pos": -0.3257937695909091,
+      "ideal_speed": 568.0044,
+      "avg_speed": 296.76168,
+      "angle_change": 0.3602974,
+      "samples": 22
+    },
+    "1860.0": {
+      "track_pos": -0.2948493004782609,
+      "ideal_speed": 567.99,
+      "avg_speed": 304.6239547826087,
+      "angle_change": 0.4738784,
+      "samples": 23
+    },
+    "1870.0": {
+      "track_pos": -0.2807918495909091,
+      "ideal_speed": 567.9792,
+      "avg_speed": 304.26223090909093,
+      "angle_change": 0.4731278,
+      "samples": 22
+    },
+    "1880.0": {
+      "track_pos": -0.23014325379166667,
+      "ideal_speed": 567.9648,
+      "avg_speed": 289.58919,
+      "angle_change": 0.41070700000000004,
+      "samples": 24
+    },
+    "1890.0": {
+      "track_pos": -0.17152071712499997,
+      "ideal_speed": 567.9504000000001,
+      "avg_speed": 283.37094,
+      "angle_change": 0.3705095,
+      "samples": 24
+    },
+    "1900.0": {
+      "track_pos": -0.1374822596,
+      "ideal_speed": 567.9468,
+      "avg_speed": 281.1842352,
+      "angle_change": 0.33894480000000005,
+      "samples": 25
+    },
+    "1910.0": {
+      "track_pos": -0.08994383265217391,
+      "ideal_speed": 567.9432,
+      "avg_speed": 286.157707826087,
+      "angle_change": 0.2759018,
+      "samples": 23
+    },
+    "1920.0": {
+      "track_pos": -0.0700113674347826,
+      "ideal_speed": 567.9323999999999,
+      "avg_speed": 299.5815286956522,
+      "angle_change": 0.2110135,
+      "samples": 23
+    },
+    "1930.0": {
+      "track_pos": -0.057326265090909094,
+      "ideal_speed": 567.918,
+      "avg_speed": 308.80603636363634,
+      "angle_change": 0.11751980000000001,
+      "samples": 22
+    },
+    "1940.0": {
+      "track_pos": -0.03934619136363637,
+      "ideal_speed": 567.918,
+      "avg_speed": 312.6469909090909,
+      "angle_change": 0.058754600000000004,
+      "samples": 22
+    },
+    "1950.0": {
+      "track_pos": -0.028197935954545453,
+      "ideal_speed": 567.9036,
+      "avg_speed": 315.87879272727275,
+      "angle_change": 0.0548138,
+      "samples": 22
+    },
+    "1960.0": {
+      "track_pos": -0.023358858727272724,
+      "ideal_speed": 567.9036,
+      "avg_speed": 316.6343345454545,
+      "angle_change": 0.0523508,
+      "samples": 22
+    },
+    "1970.0": {
+      "track_pos": -0.026262614333333333,
+      "ideal_speed": 567.8892000000001,
+      "avg_speed": 338.52130285714287,
+      "angle_change": 0.0373868,
+      "samples": 21
+    },
+    "1980.0": {
+      "track_pos": -0.022013255363636366,
+      "ideal_speed": 567.8856000000001,
+      "avg_speed": 331.89520909090913,
+      "angle_change": 0.043237399999999995,
+      "samples": 22
+    },
+    "1990.0": {
+      "track_pos": -0.050547421,
+      "ideal_speed": 567.8784,
+      "avg_speed": 346.03455789473685,
+      "angle_change": 0.0473073,
+      "samples": 19
+    },
+    "2000.0": {
+      "track_pos": -0.028090768899999997,
+      "ideal_speed": 567.8676,
+      "avg_speed": 350.12183400000004,
+      "angle_change": 0.0755715,
+      "samples": 20
+    },
+    "2010.0": {
+      "track_pos": -0.037294871,
+      "ideal_speed": 567.8604,
+      "avg_speed": 359.97076,
+      "angle_change": 0.1630259,
+      "samples": 18
+    },
+    "2020.0": {
+      "track_pos": -0.0543014157368421,
+      "ideal_speed": 567.8532,
+      "avg_speed": 367.9573263157895,
+      "angle_change": 0.1921616,
+      "samples": 19
+    },
+    "2030.0": {
+      "track_pos": -0.046884845111111115,
+      "ideal_speed": 565.6823999999999,
+      "avg_speed": 374.2459,
+      "angle_change": 0.1915976,
+      "samples": 18
+    },
+    "2040.0": {
+      "track_pos": -0.06223102931578948,
+      "ideal_speed": 559.9692,
+      "avg_speed": 381.6930884210526,
+      "angle_change": 0.1729068,
+      "samples": 19
+    },
+    "2050.0": {
+      "track_pos": -0.07702061347058824,
+      "ideal_speed": 553.1832,
+      "avg_speed": 386.5775294117647,
+      "angle_change": 0.1432924,
+      "samples": 17
+    },
+    "2060.0": {
+      "track_pos": -0.052732478623529415,
+      "ideal_speed": 545.8896,
+      "avg_speed": 398.4350188235294,
+      "angle_change": 0.1205864,
+      "samples": 17
+    },
+    "2070.0": {
+      "track_pos": -0.08327876833529411,
+      "ideal_speed": 538.2900000000001,
+      "avg_speed": 396.5304705882353,
+      "angle_change": 0.1016478,
+      "samples": 17
+    },
+    "2080.0": {
+      "track_pos": -0.08452404035294117,
+      "ideal_speed": 530.4564,
+      "avg_speed": 401.5703223529412,
+      "angle_change": 0.08794969999999999,
+      "samples": 17
+    },
+    "2090.0": {
+      "track_pos": -0.06990046629411766,
+      "ideal_speed": 522.5076,
+      "avg_speed": 419.0868423529412,
+      "angle_change": 0.0751047,
+      "samples": 17
+    },
+    "2100.0": {
+      "track_pos": -0.08694854106250001,
+      "ideal_speed": 512.0424,
+      "avg_speed": 407.73312,
+      "angle_change": 0.0637607,
+      "samples": 16
+    },
+    "2110.0": {
+      "track_pos": -0.07196738482352942,
+      "ideal_speed": 504.30960000000005,
+      "avg_speed": 425.18837647058825,
+      "angle_change": 0.054549299999999995,
+      "samples": 17
+    },
+    "2120.0": {
+      "track_pos": -0.08750786729411765,
+      "ideal_speed": 494.4636,
+      "avg_speed": 412.54676470588237,
+      "angle_change": 0.0472469,
+      "samples": 17
+    },
+    "2130.0": {
+      "track_pos": -0.073801902,
+      "ideal_speed": 486.6624,
+      "avg_speed": 414.33876,
+      "angle_change": 0.0363579,
+      "samples": 16
+    },
+    "2140.0": {
+      "track_pos": -0.0765490446875,
+      "ideal_speed": 476.0712,
+      "avg_speed": 405.8532225,
+      "angle_change": 0.029664000000000003,
+      "samples": 16
+    },
+    "2150.0": {
+      "track_pos": -0.07959457972222223,
+      "ideal_speed": 468.4248,
+      "avg_speed": 397.34824000000003,
+      "angle_change": 0.019021988,
+      "samples": 18
+    },
+    "2160.0": {
+      "track_pos": -0.05827821922222222,
+      "ideal_speed": 456.2856,
+      "avg_speed": 391.66142,
+      "angle_change": 0.022451861,
+      "samples": 18
+    },
+    "2170.0": {
+      "track_pos": -0.07920173846153845,
+      "ideal_speed": 418.608,
+      "avg_speed": 367.76160000000004,
+      "angle_change": 0.019975009999999998,
+      "samples": 13
+    },
+    "2180.0": {
+      "track_pos": -0.05995188928571429,
+      "ideal_speed": 403.9812,
+      "avg_speed": 364.47289714285716,
+      "angle_change": 0.031118580000000003,
+      "samples": 14
+    },
+    "2190.0": {
+      "track_pos": -0.045372666666666665,
+      "ideal_speed": 390.744,
+      "avg_speed": 366.626472,
+      "angle_change": 0.031068580000000002,
+      "samples": 15
+    },
+    "2200.0": {
+      "track_pos": -0.0495947923076923,
+      "ideal_speed": 394.4592,
+      "avg_speed": 368.28072000000003,
+      "angle_change": 0.024498489999999998,
+      "samples": 13
+    },
+    "2210.0": {
+      "track_pos": -0.033846885714285714,
+      "ideal_speed": 402.1812,
+      "avg_speed": 375.4280057142857,
+      "angle_change": 0.020906900000000003,
+      "samples": 14
+    },
+    "2220.0": {
+      "track_pos": -0.020124507142857146,
+      "ideal_speed": 412.4232,
+      "avg_speed": 380.96295428571426,
+      "angle_change": 0.019600350000000002,
+      "samples": 14
+    },
+    "2230.0": {
+      "track_pos": -0.02352840769230769,
+      "ideal_speed": 424.03679999999997,
+      "avg_speed": 384.7296738461539,
+      "angle_change": 0.01641612,
+      "samples": 13
+    },
+    "2240.0": {
+      "track_pos": -0.009823650000000001,
+      "ideal_speed": 435.30480000000006,
+      "avg_speed": 392.7550628571429,
+      "angle_change": 0.00943421,
+      "samples": 14
+    },
+    "2250.0": {
+      "track_pos": -0.010854015384615388,
+      "ideal_speed": 445.644,
+      "avg_speed": 399.78969230769235,
+      "angle_change": 0.008238733,
+      "samples": 13
+    },
+    "2260.0": {
+      "track_pos": -0.019063391666666665,
+      "ideal_speed": 445.5468,
+      "avg_speed": 401.85723,
+      "angle_change": 0.00737399,
+      "samples": 12
+    },
+    "2270.0": {
+      "track_pos": -0.0022816230769230786,
+      "ideal_speed": 438.6384,
+      "avg_speed": 407.2898769230769,
+      "angle_change": 0.0198812,
+      "samples": 13
+    },
+    "2280.0": {
+      "track_pos": 0.018909333333333334,
+      "ideal_speed": 445.4748,
+      "avg_speed": 405.8316,
+      "angle_change": 0.0719759,
+      "samples": 12
+    },
+    "2290.0": {
+      "track_pos": -0.0076503846153846145,
+      "ideal_speed": 453.6,
+      "avg_speed": 404.6358461538461,
+      "angle_change": 0.0857381,
+      "samples": 13
+    },
+    "2300.0": {
+      "track_pos": 0.006989130769230769,
+      "ideal_speed": 460.098,
+      "avg_speed": 401.2299415384615,
+      "angle_change": 0.08714999999999999,
+      "samples": 13
+    },
+    "2310.0": {
+      "track_pos": -0.004855430769230771,
+      "ideal_speed": 465.55199999999996,
+      "avg_speed": 398.37868615384616,
+      "angle_change": 0.0771005,
+      "samples": 13
+    },
+    "2320.0": {
+      "track_pos": -0.025171866666666667,
+      "ideal_speed": 469.2024,
+      "avg_speed": 393.75162,
+      "angle_change": 0.067659,
+      "samples": 12
+    },
+    "2330.0": {
+      "track_pos": -0.02414360846153846,
+      "ideal_speed": 473.6772,
+      "avg_speed": 401.8048615384615,
+      "angle_change": 0.060527000000000004,
+      "samples": 13
+    },
+    "2340.0": {
+      "track_pos": -0.03244879846153846,
+      "ideal_speed": 477.8892000000001,
+      "avg_speed": 405.13668923076926,
+      "angle_change": 0.070573,
+      "samples": 13
+    },
+    "2350.0": {
+      "track_pos": -0.04982298461538462,
+      "ideal_speed": 480.9528000000001,
+      "avg_speed": 399.25689230769234,
+      "angle_change": 0.0899836,
+      "samples": 13
+    },
+    "2360.0": {
+      "track_pos": -0.04432252307692308,
+      "ideal_speed": 485.1612,
+      "avg_speed": 416.898,
+      "angle_change": 0.0966513,
+      "samples": 13
+    },
+    "2370.0": {
+      "track_pos": -0.06016209166666667,
+      "ideal_speed": 488.6172,
+      "avg_speed": 418.97691000000003,
+      "angle_change": 0.09903139999999999,
+      "samples": 12
+    },
+    "2380.0": {
+      "track_pos": -0.04018690909090909,
+      "ideal_speed": 493.848,
+      "avg_speed": 436.66596000000004,
+      "angle_change": 0.0955822,
+      "samples": 11
+    },
+    "2390.0": {
+      "track_pos": -0.07263119999999999,
+      "ideal_speed": 498.4452,
+      "avg_speed": 437.61000000000007,
+      "angle_change": 0.0931255,
+      "samples": 12
+    },
+    "2400.0": {
+      "track_pos": -0.06553611538461539,
+      "ideal_speed": 505.7028000000001,
+      "avg_speed": 452.55046153846155,
+      "angle_change": 0.0559072,
+      "samples": 13
+    },
+    "2410.0": {
+      "track_pos": -0.06558377,
+      "ideal_speed": 508.428,
+      "avg_speed": 460.40436,
+      "angle_change": 0.046325689999999996,
+      "samples": 10
+    },
+    "2420.0": {
+      "track_pos": -0.05862852,
+      "ideal_speed": 510.90840000000003,
+      "avg_speed": 464.87016000000006,
+      "angle_change": 0.054078070000000006,
+      "samples": 10
+    },
+    "2430.0": {
+      "track_pos": -0.03852090833333333,
+      "ideal_speed": 520.5312,
+      "avg_speed": 479.41350000000006,
+      "angle_change": 0.05321216,
+      "samples": 12
+    },
+    "2440.0": {
+      "track_pos": -0.03920141,
+      "ideal_speed": 526.2984,
+      "avg_speed": 479.32992,
+      "angle_change": 0.04641434,
+      "samples": 10
+    },
+    "2450.0": {
+      "track_pos": -0.030792189999999997,
+      "ideal_speed": 529.1064,
+      "avg_speed": 480.753,
+      "angle_change": 0.04067514999999999,
+      "samples": 10
+    },
+    "2460.0": {
+      "track_pos": -0.02937033333333333,
+      "ideal_speed": 529.4772,
+      "avg_speed": 475.13910000000004,
+      "angle_change": 0.03678797,
+      "samples": 12
+    },
+    "2470.0": {
+      "track_pos": -0.006994263636363637,
+      "ideal_speed": 533.7,
+      "avg_speed": 476.08036363636364,
+      "angle_change": 0.03380725,
+      "samples": 11
+    },
+    "2480.0": {
+      "track_pos": -0.015924763636363637,
+      "ideal_speed": 539.8235999999999,
+      "avg_speed": 455.27390181818186,
+      "angle_change": 0.031100799999999998,
+      "samples": 11
+    },
+    "2490.0": {
+      "track_pos": -0.01633809090909091,
+      "ideal_speed": 545.832,
+      "avg_speed": 446.40739636363634,
+      "angle_change": 0.03852815,
+      "samples": 11
+    },
+    "2500.0": {
+      "track_pos": -0.014430424999999998,
+      "ideal_speed": 550.8396,
+      "avg_speed": 444.85911000000004,
+      "angle_change": 0.04094715,
+      "samples": 12
+    },
+    "2510.0": {
+      "track_pos": -0.029396054545454544,
+      "ideal_speed": 554.5871999999999,
+      "avg_speed": 434.3021672727273,
+      "angle_change": 0.039148039999999995,
+      "samples": 11
+    },
+    "2520.0": {
+      "track_pos": -0.032654692857142856,
+      "ideal_speed": 558.1619999999999,
+      "avg_speed": 437.26538571428574,
+      "angle_change": 0.034281240000000004,
+      "samples": 14
+    },
+    "2530.0": {
+      "track_pos": -0.04239023272727272,
+      "ideal_speed": 560.1024,
+      "avg_speed": 430.9796290909091,
+      "angle_change": 0.02990743,
+      "samples": 11
+    },
+    "2540.0": {
+      "track_pos": -0.03864004583333333,
+      "ideal_speed": 561.582,
+      "avg_speed": 433.53902999999997,
+      "angle_change": 0.027101490000000002,
+      "samples": 12
+    },
+    "2550.0": {
+      "track_pos": -0.06146596333333334,
+      "ideal_speed": 562.7268,
+      "avg_speed": 418.94907000000006,
+      "angle_change": 0.02340855,
+      "samples": 12
+    },
+    "2560.0": {
+      "track_pos": -0.050159974999999996,
+      "ideal_speed": 563.6304,
+      "avg_speed": 429.81747,
+      "angle_change": 0.019554540000000002,
+      "samples": 12
+    },
+    "2570.0": {
+      "track_pos": -0.06397836923076923,
+      "ideal_speed": 564.336,
+      "avg_speed": 419.02618153846157,
+      "angle_change": 0.017444090000000002,
+      "samples": 13
+    },
+    "2580.0": {
+      "track_pos": -0.06876657454545455,
+      "ideal_speed": 564.9012,
+      "avg_speed": 422.73539999999997,
+      "angle_change": 0.013907870000000001,
+      "samples": 11
+    },
+    "2590.0": {
+      "track_pos": -0.06356685,
+      "ideal_speed": 565.362,
+      "avg_speed": 422.38344,
+      "angle_change": 0.01214784,
+      "samples": 12
+    },
+    "2600.0": {
+      "track_pos": -0.07570889384615384,
+      "ideal_speed": 565.7112,
+      "avg_speed": 411.86342769230765,
+      "angle_change": 0.010779079,
+      "samples": 13
+    },
+    "2610.0": {
+      "track_pos": -0.0697641195,
+      "ideal_speed": 565.9812000000001,
+      "avg_speed": 414.86601,
+      "angle_change": 0.00839704,
+      "samples": 12
+    },
+    "2620.0": {
+      "track_pos": -0.06512516961538461,
+      "ideal_speed": 566.208,
+      "avg_speed": 408.7631353846154,
+      "angle_change": 0.00800937,
+      "samples": 13
+    },
+    "2630.0": {
+      "track_pos": -0.08307854127692307,
+      "ideal_speed": 566.4060000000001,
+      "avg_speed": 397.38982153846155,
+      "angle_change": 0.005805192999999999,
+      "samples": 13
+    },
+    "2640.0": {
+      "track_pos": -0.06893573853846155,
+      "ideal_speed": 566.5932,
+      "avg_speed": 395.18371384615386,
+      "angle_change": 0.005803761,
+      "samples": 13
+    },
+    "2650.0": {
+      "track_pos": -0.07027145576923077,
+      "ideal_speed": 566.7408,
+      "avg_speed": 388.1630215384615,
+      "angle_change": 0.004186565,
+      "samples": 13
+    },
+    "2660.0": {
+      "track_pos": -0.08018149399999999,
+      "ideal_speed": 566.8380000000001,
+      "avg_speed": 376.60312285714286,
+      "angle_change": 0.01838586,
+      "samples": 14
+    },
+    "2670.0": {
+      "track_pos": -0.06818389407692307,
+      "ideal_speed": 566.892,
+      "avg_speed": 374.4954553846154,
+      "angle_change": 0.06410456,
+      "samples": 13
+    },
+    "2680.0": {
+      "track_pos": -0.05020248064285714,
+      "ideal_speed": 566.9532,
+      "avg_speed": 362.3567914285714,
+      "angle_change": 0.07786085,
+      "samples": 14
+    },
+    "2690.0": {
+      "track_pos": -0.03517636714285714,
+      "ideal_speed": 567.0144,
+      "avg_speed": 357.8729914285714,
+      "angle_change": 0.0763226,
+      "samples": 14
+    },
+    "2700.0": {
+      "track_pos": -0.02308736875,
+      "ideal_speed": 567.0468000000001,
+      "avg_speed": 348.2003925,
+      "angle_change": 0.06951662,
+      "samples": 16
+    },
+    "2710.0": {
+      "track_pos": -0.007951105000000002,
+      "ideal_speed": 567.0684,
+      "avg_speed": 355.0808314285714,
+      "angle_change": 0.06049493,
+      "samples": 14
+    },
+    "2720.0": {
+      "track_pos": 0.002201451428571431,
+      "ideal_speed": 567.0828,
+      "avg_speed": 355.38629142857144,
+      "angle_change": 0.053986030000000004,
+      "samples": 14
+    },
+    "2730.0": {
+      "track_pos": -0.0030472753333333344,
+      "ideal_speed": 567.0864,
+      "avg_speed": 353.183112,
+      "angle_change": 0.04765271,
+      "samples": 15
+    },
+    "2740.0": {
+      "track_pos": 0.032045544,
+      "ideal_speed": 567.0936,
+      "avg_speed": 349.989432,
+      "angle_change": 0.04243849,
+      "samples": 15
+    },
+    "2750.0": {
+      "track_pos": 0.026308705000000005,
+      "ideal_speed": 567.1007999999999,
+      "avg_speed": 355.42756285714285,
+      "angle_change": 0.035300434,
+      "samples": 14
+    },
+    "2760.0": {
+      "track_pos": 0.031878759285714285,
+      "ideal_speed": 567.1007999999999,
+      "avg_speed": 355.35299142857144,
+      "angle_change": 0.03165903,
+      "samples": 14
+    },
+    "2770.0": {
+      "track_pos": 0.020905319333333335,
+      "ideal_speed": 567.0971999999999,
+      "avg_speed": 353.640624,
+      "angle_change": 0.027292885,
+      "samples": 15
+    },
+    "2780.0": {
+      "track_pos": 0.04081888714285715,
+      "ideal_speed": 567.0936,
+      "avg_speed": 355.46675142857146,
+      "angle_change": 0.023589554,
+      "samples": 14
+    },
+    "2790.0": {
+      "track_pos": 0.05966495066666667,
+      "ideal_speed": 567.09,
+      "avg_speed": 350.704752,
+      "angle_change": 0.020136506,
+      "samples": 15
+    },
+    "2800.0": {
+      "track_pos": 0.031434776000000005,
+      "ideal_speed": 567.0864,
+      "avg_speed": 353.952096,
+      "angle_change": 0.017093795000000002,
+      "samples": 15
+    },
+    "2810.0": {
+      "track_pos": 0.05047151285714286,
+      "ideal_speed": 567.0756,
+      "avg_speed": 356.0890628571429,
+      "angle_change": 0.015186,
+      "samples": 14
+    },
+    "2820.0": {
+      "track_pos": 0.05265070428571429,
+      "ideal_speed": 567.1044,
+      "avg_speed": 356.52132,
+      "angle_change": 0.013365669,
+      "samples": 14
+    },
+    "2830.0": {
+      "track_pos": 0.05450228757142857,
+      "ideal_speed": 567.1584,
+      "avg_speed": 356.24322,
+      "angle_change": 0.012288535,
+      "samples": 14
+    },
+    "2840.0": {
+      "track_pos": 0.055359226875,
+      "ideal_speed": 567.1764000000001,
+      "avg_speed": 350.1330975,
+      "angle_change": 0.011610490000000001,
+      "samples": 16
+    },
+    "2850.0": {
+      "track_pos": 0.05391237,
+      "ideal_speed": 567.2052,
+      "avg_speed": 371.863992,
+      "angle_change": 0.011283810000000002,
+      "samples": 15
+    },
+    "2860.0": {
+      "track_pos": 0.05855920571428571,
+      "ideal_speed": 567.216,
+      "avg_speed": 359.87273999999996,
+      "angle_change": 0.01187914,
+      "samples": 14
+    },
+    "2870.0": {
+      "track_pos": 0.05894990071428572,
+      "ideal_speed": 567.2304,
+      "avg_speed": 362.8388314285714,
+      "angle_change": 0.012719330000000001,
+      "samples": 14
+    },
+    "2880.0": {
+      "track_pos": 0.05897116571428571,
+      "ideal_speed": 567.2484,
+      "avg_speed": 369.27748285714284,
+      "angle_change": 0.01575417,
+      "samples": 14
+    },
+    "2890.0": {
+      "track_pos": 0.07961939384615385,
+      "ideal_speed": 567.2628000000001,
+      "avg_speed": 377.52540923076924,
+      "angle_change": 0.013626010000000001,
+      "samples": 13
+    },
+    "2900.0": {
+      "track_pos": 0.05940389928571428,
+      "ideal_speed": 567.2736,
+      "avg_speed": 385.09997142857145,
+      "angle_change": 0.010027106,
+      "samples": 14
+    },
+    "2910.0": {
+      "track_pos": 0.06180648166666666,
+      "ideal_speed": 567.2844,
+      "avg_speed": 403.20462000000003,
+      "angle_change": 0.0076270700000000006,
+      "samples": 12
+    },
+    "2920.0": {
+      "track_pos": 0.06293902857142858,
+      "ideal_speed": 567.2952,
+      "avg_speed": 405.3067457142857,
+      "angle_change": 0.0437935,
+      "samples": 14
+    },
+    "2930.0": {
+      "track_pos": 0.067280935,
+      "ideal_speed": 567.2988,
+      "avg_speed": 420.82827,
+      "angle_change": 0.1280873,
+      "samples": 12
+    },
+    "2940.0": {
+      "track_pos": 0.06400564333333332,
+      "ideal_speed": 567.306,
+      "avg_speed": 430.26663,
+      "angle_change": 0.1553246,
+      "samples": 12
+    },
+    "2950.0": {
+      "track_pos": 0.03796798454545454,
+      "ideal_speed": 567.3168,
+      "avg_speed": 445.9238181818182,
+      "angle_change": 0.1533633,
+      "samples": 11
+    },
+    "2960.0": {
+      "track_pos": 0.05034716616666667,
+      "ideal_speed": 567.3204000000001,
+      "avg_speed": 449.4042,
+      "angle_change": 0.1334569,
+      "samples": 12
+    },
+    "2970.0": {
+      "track_pos": 0.043450898700000004,
+      "ideal_speed": 567.3131999999999,
+      "avg_speed": 465.35688,
+      "angle_change": 0.107362,
+      "samples": 10
+    },
+    "2980.0": {
+      "track_pos": 0.025083346454545453,
+      "ideal_speed": 567.306,
+      "avg_speed": 470.40054545454547,
+      "angle_change": 0.09122530000000001,
+      "samples": 11
+    },
+    "2990.0": {
+      "track_pos": 0.023567630454545452,
+      "ideal_speed": 567.2772,
+      "avg_speed": 477.44836363636364,
+      "angle_change": 0.0795475,
+      "samples": 11
+    },
+    "3000.0": {
+      "track_pos": 0.030562802699999995,
+      "ideal_speed": 567.2628000000001,
+      "avg_speed": 485.06616,
+      "angle_change": 0.0674591,
+      "samples": 10
+    },
+    "3010.0": {
+      "track_pos": 0.019222391454545455,
+      "ideal_speed": 567.2628000000001,
+      "avg_speed": 493.08283636363643,
+      "angle_change": 0.058688199999999996,
+      "samples": 11
+    },
+    "3020.0": {
+      "track_pos": 0.023636298,
+      "ideal_speed": 567.2628000000001,
+      "avg_speed": 500.12532,
+      "angle_change": 0.0490288,
+      "samples": 10
+    },
+    "3030.0": {
+      "track_pos": 0.0202555913,
+      "ideal_speed": 567.288,
+      "avg_speed": 505.19628,
+      "angle_change": 0.041156700000000004,
+      "samples": 10
+    },
+    "3040.0": {
+      "track_pos": 0.01314830409090909,
+      "ideal_speed": 567.3024,
+      "avg_speed": 512.2531636363636,
+      "angle_change": 0.0339531,
+      "samples": 11
+    },
+    "3050.0": {
+      "track_pos": 0.011022266888888889,
+      "ideal_speed": 567.3276000000001,
+      "avg_speed": 523.0884000000001,
+      "angle_change": 0.02783452,
+      "samples": 9
+    },
+    "3060.0": {
+      "track_pos": 0.0135304633,
+      "ideal_speed": 567.3456,
+      "avg_speed": 524.68308,
+      "angle_change": 0.02411165,
+      "samples": 10
+    },
+    "3070.0": {
+      "track_pos": 0.008544365777777778,
+      "ideal_speed": 567.3456,
+      "avg_speed": 534.5912000000001,
+      "angle_change": 0.0200446,
+      "samples": 9
+    },
+    "3080.0": {
+      "track_pos": 0.0101852405,
+      "ideal_speed": 567.3312000000001,
+      "avg_speed": 536.71032,
+      "angle_change": 0.01676961,
+      "samples": 10
+    },
+    "3090.0": {
+      "track_pos": 0.0052468426,
+      "ideal_speed": 567.3708,
+      "avg_speed": 544.23792,
+      "angle_change": 0.0136115,
+      "samples": 10
+    },
+    "3100.0": {
+      "track_pos": 0.0062802813333333336,
+      "ideal_speed": 567.4176000000001,
+      "avg_speed": 546.5596,
+      "angle_change": 0.01120466,
+      "samples": 9
+    },
+    "3110.0": {
+      "track_pos": 0.0070025444000000004,
+      "ideal_speed": 567.4716,
+      "avg_speed": 547.5060000000001,
+      "angle_change": 0.00926334,
+      "samples": 10
+    },
+    "3120.0": {
+      "track_pos": 0.004769748222222222,
+      "ideal_speed": 567.5004,
+      "avg_speed": 553.7976,
+      "angle_change": 0.00747175,
+      "samples": 9
+    },
+    "3130.0": {
+      "track_pos": 0.004241532444444445,
+      "ideal_speed": 567.5184,
+      "avg_speed": 556.6764,
+      "angle_change": 0.00620467,
+      "samples": 9
+    },
+    "3140.0": {
+      "track_pos": 0.0037971963333333337,
+      "ideal_speed": 567.5400000000001,
+      "avg_speed": 559.4100000000001,
+      "angle_change": 0.005040112,
+      "samples": 9
+    },
+    "3150.0": {
+      "track_pos": 0.003438958222222222,
+      "ideal_speed": 567.5436000000001,
+      "avg_speed": 561.88,
+      "angle_change": 0.004132332,
+      "samples": 9
+    },
+    "3160.0": {
+      "track_pos": 0.003136353087777778,
+      "ideal_speed": 568.1088,
+      "avg_speed": 563.7271999999999,
+      "angle_change": 0.003401815,
+      "samples": 9
+    },
+    "3170.0": {
+      "track_pos": 0.002856845888888889,
+      "ideal_speed": 568.566,
+      "avg_speed": 565.0532,
+      "angle_change": 0.002768099,
+      "samples": 9
+    },
+    "3180.0": {
+      "track_pos": 0.0028494919,
+      "ideal_speed": 568.044,
+      "avg_speed": 565.29,
+      "angle_change": 0.002306166,
+      "samples": 10
+    },
+    "3190.0": {
+      "track_pos": 0.0021748195555555557,
+      "ideal_speed": 567.7416,
+      "avg_speed": 566.2447999999999,
+      "angle_change": 0.00183767139,
+      "samples": 9
+    },
+    "3200.0": {
+      "track_pos": 0.0019412572222222224,
+      "ideal_speed": 568.4076,
+      "avg_speed": 565.8624,
+      "angle_change": 0.00178981,
+      "samples": 9
+    },
+    "3210.0": {
+      "track_pos": 0.0017481390000000001,
+      "ideal_speed": 568.8864,
+      "avg_speed": 564.7016,
+      "angle_change": 0.001669048,
+      "samples": 9
+    },
+    "3220.0": {
+      "track_pos": 0.0016118605555555555,
+      "ideal_speed": 568.368,
+      "avg_speed": 562.7180000000001,
+      "angle_change": 0.001426816,
+      "samples": 9
+    },
+    "3230.0": {
+      "track_pos": 0.0015200229,
+      "ideal_speed": 567.4752000000001,
+      "avg_speed": 558.8711999999999,
+      "angle_change": 0.001094222,
+      "samples": 10
+    },
+    "3240.0": {
+      "track_pos": 0.0014371870000000001,
+      "ideal_speed": 567.4608,
+      "avg_speed": 556.4112,
+      "angle_change": 0.0008947849999999999,
+      "samples": 9
+    },
+    "3250.0": {
+      "track_pos": 0.0013976281111111111,
+      "ideal_speed": 567.666,
+      "avg_speed": 552.3504,
+      "angle_change": 0.001103345,
+      "samples": 9
+    },
+    "3260.0": {
+      "track_pos": 0.0013842746666666668,
+      "ideal_speed": 567.8136000000001,
+      "avg_speed": 548.0348,
+      "angle_change": 0.0009782950000000001,
+      "samples": 9
+    },
+    "3270.0": {
+      "track_pos": 0.0014992543,
+      "ideal_speed": 567.9612,
+      "avg_speed": 540.9252,
+      "angle_change": 0.0009016429999999999,
+      "samples": 10
+    },
+    "3280.0": {
+      "track_pos": 0.0013877388,
+      "ideal_speed": 568.0548,
+      "avg_speed": 537.62904,
+      "angle_change": 0.000817959,
+      "samples": 10
+    },
+    "3290.0": {
+      "track_pos": 0.0014757846666666667,
+      "ideal_speed": 568.0944000000001,
+      "avg_speed": 533.2016,
+      "angle_change": 0.000638907,
+      "samples": 9
+    },
+    "3300.0": {
+      "track_pos": 0.0016450319000000002,
+      "ideal_speed": 568.116,
+      "avg_speed": 525.537,
+      "angle_change": 0.000630443,
+      "samples": 10
+    },
+    "3310.0": {
+      "track_pos": 0.0014782667,
+      "ideal_speed": 568.1376,
+      "avg_speed": 522.2988,
+      "angle_change": 0.000731055,
+      "samples": 10
+    },
+    "3320.0": {
+      "track_pos": 0.0016792696,
+      "ideal_speed": 568.1952,
+      "avg_speed": 516.9164400000001,
+      "angle_change": 0.001327817,
+      "samples": 10
+    },
+    "3330.0": {
+      "track_pos": 0.0014407107777777777,
+      "ideal_speed": 568.2276,
+      "avg_speed": 518.0164,
+      "angle_change": 0.001426279,
+      "samples": 9
+    },
+    "3340.0": {
+      "track_pos": 0.0014429533636363637,
+      "ideal_speed": 568.242,
+      "avg_speed": 509.8853454545455,
+      "angle_change": 0.0014026759,
+      "samples": 11
+    },
+    "3350.0": {
+      "track_pos": 0.001180047422222222,
+      "ideal_speed": 568.242,
+      "avg_speed": 510.39520000000005,
+      "angle_change": 0.00121295,
+      "samples": 9
+    },
+    "3360.0": {
+      "track_pos": 0.0011358264545454544,
+      "ideal_speed": 566.3448000000001,
+      "avg_speed": 498.99240000000003,
+      "angle_change": 0.0016889589999999999,
+      "samples": 11
+    },
+    "3370.0": {
+      "track_pos": 0.0010742988300000002,
+      "ideal_speed": 561.3983999999999,
+      "avg_speed": 493.22772000000003,
+      "angle_change": 0.001977802,
+      "samples": 10
+    },
+    "3380.0": {
+      "track_pos": 0.0008449048636363637,
+      "ideal_speed": 555.5124,
+      "avg_speed": 484.0039636363636,
+      "angle_change": 0.0018895880000000002,
+      "samples": 11
+    },
+    "3390.0": {
+      "track_pos": 0.0007473837481818183,
+      "ideal_speed": 549.1764000000001,
+      "avg_speed": 475.7674909090909,
+      "angle_change": 0.001922722,
+      "samples": 11
+    },
+    "3400.0": {
+      "track_pos": 0.000674999,
+      "ideal_speed": 542.6136,
+      "avg_speed": 467.35527272727273,
+      "angle_change": 0.001909013,
+      "samples": 11
+    },
+    "3410.0": {
+      "track_pos": 0.0005959270833333334,
+      "ideal_speed": 535.9608,
+      "avg_speed": 463.6656,
+      "angle_change": 0.001718278,
+      "samples": 12
+    },
+    "3420.0": {
+      "track_pos": 0.0005865024545454546,
+      "ideal_speed": 527.0868,
+      "avg_speed": 445.80436363636363,
+      "angle_change": 0.001645093,
+      "samples": 11
+    },
+    "3430.0": {
+      "track_pos": 0.0005772404545454546,
+      "ideal_speed": 520.4736,
+      "avg_speed": 433.8811636363636,
+      "angle_change": 0.0016481920000000001,
+      "samples": 11
+    },
+    "3440.0": {
+      "track_pos": 0.0008282650833333333,
+      "ideal_speed": 519.2388000000001,
+      "avg_speed": 419.46240000000006,
+      "angle_change": 0.001559975,
+      "samples": 12
+    },
+    "3450.0": {
+      "track_pos": 0.0003606901538461539,
+      "ideal_speed": 518.742,
+      "avg_speed": 415.07390769230767,
+      "angle_change": 0.002098859,
+      "samples": 13
+    },
+    "3460.0": {
+      "track_pos": 0.0006336625384615384,
+      "ideal_speed": 513.4788000000001,
+      "avg_speed": 389.0190184615385,
+      "angle_change": 0.00776178,
+      "samples": 13
+    },
+    "3470.0": {
+      "track_pos": 0.002970343885714286,
+      "ideal_speed": 508.284,
+      "avg_speed": 383.4569314285714,
+      "angle_change": 0.049862180000000006,
+      "samples": 14
+    },
+    "3480.0": {
+      "track_pos": 0.011209651153846154,
+      "ideal_speed": 500.49,
+      "avg_speed": 359.7898984615385,
+      "angle_change": 0.06096531,
+      "samples": 13
+    },
+    "3490.0": {
+      "track_pos": 0.022222822533333336,
+      "ideal_speed": 494.7372,
+      "avg_speed": 341.056872,
+      "angle_change": 0.1042379,
+      "samples": 15
+    },
+    "3500.0": {
+      "track_pos": 0.0240650095,
+      "ideal_speed": 487.87559999999996,
+      "avg_speed": 339.3290475,
+      "angle_change": 0.14737640000000002,
+      "samples": 16
+    },
+    "3510.0": {
+      "track_pos": 0.0195161986875,
+      "ideal_speed": 478.56960000000004,
+      "avg_speed": 331.1327025,
+      "angle_change": 0.1489042,
+      "samples": 16
+    },
+    "3520.0": {
+      "track_pos": 0.00579810025,
+      "ideal_speed": 469.368,
+      "avg_speed": 311.957955,
+      "angle_change": 0.1455868,
+      "samples": 16
+    },
+    "3530.0": {
+      "track_pos": -0.014285254475,
+      "ideal_speed": 462.4704,
+      "avg_speed": 318.9051225,
+      "angle_change": 0.1268666,
+      "samples": 16
+    },
+    "3540.0": {
+      "track_pos": -0.0035913026562500033,
+      "ideal_speed": 451.32120000000003,
+      "avg_speed": 317.2268475,
+      "angle_change": 0.1192249,
+      "samples": 16
+    },
+    "3550.0": {
+      "track_pos": -0.020053118529411766,
+      "ideal_speed": 437.8572,
+      "avg_speed": 310.2972988235294,
+      "angle_change": 0.1050861,
+      "samples": 17
+    },
+    "3560.0": {
+      "track_pos": -0.026845767647058826,
+      "ideal_speed": 423.4212,
+      "avg_speed": 306.5536164705882,
+      "angle_change": 0.0942324,
+      "samples": 17
+    },
+    "3570.0": {
+      "track_pos": -0.03276682664705882,
+      "ideal_speed": 408.64680000000004,
+      "avg_speed": 303.9072564705882,
+      "angle_change": 0.084225,
+      "samples": 17
+    },
+    "3580.0": {
+      "track_pos": -0.02227302535294117,
+      "ideal_speed": 394.0236,
+      "avg_speed": 309.9342917647059,
+      "angle_change": 0.0777264,
+      "samples": 17
+    },
+    "3590.0": {
+      "track_pos": -0.04392646593333334,
+      "ideal_speed": 376.30080000000004,
+      "avg_speed": 305.163888,
+      "angle_change": 0.0730465,
+      "samples": 15
+    },
+    "3600.0": {
+      "track_pos": -0.030690496071428573,
+      "ideal_speed": 361.6848,
+      "avg_speed": 308.19368571428566,
+      "angle_change": 0.0750674,
+      "samples": 14
+    }
+  },
+  "corners": []
+}
