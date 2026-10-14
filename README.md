@@ -7,6 +7,11 @@ This project implements an autonomous racing AI controller for the TORCS (The Op
 **Challenge:** Navigate a complex, high-speed corkscrew course at maximum speed without crashing  
 **Solution:** Hybrid reactive-predictive controller combining racing line optimization with real-time sightline-based speed management
 
+## Submission
+   - **Video:** https://youtu.be/RAt_D58Tq-s
+   - **Performance:** 115.53s completion, 0 crashes, 0 damage
+   - **Controller:** V53 Sightline-Based Controller
+
 ---
 
 ## 2. Tools Used
@@ -410,8 +415,13 @@ AI-Racing-Challenge/
 - ✓ Consistent and repeatable
 - ✓ Reliable socket connection
 - ✓ Complete telemetry logging
+  
+ ## Submission
+   - **Video:** https://youtu.be/RAt_D58Tq-s
+   - **Performance:** 115.53s completion, 0 crashes, 0 damage
+   - **Controller:** V53 Sightline-Based Controller
 
-**Status:** Ready for IBM AI Racing Challenge submission ✓
+**Status:** Ready for IBM AI Racing Challenge submission 
 
 ---
 
